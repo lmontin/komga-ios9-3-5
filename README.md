@@ -15,7 +15,7 @@ Komga is a free and open source comics/mangas server.
 
 ## Features
 
-- Browse libraries, series and books via a responsive web UI that works on desktop, tablets and phones
+- Browse libraries, ,series and books via a responsive web UI that works on desktop, tablets and phones
 - Organize your library with collections and read lists
 - Edit metadata for your series and books
 - Import embedded metadata automatically
